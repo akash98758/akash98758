@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saharshjain78&layout=compact&theme=material-palenight" alt=Saharshjain78 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash jain78&layout=compact&theme=material-palenight" alt=Saharshjain78 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Saharshjain78&show_icons=true&locale=en&theme=nightowl" alt="Saharshjain78" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Saharshjain78&show_icons=true&locale=en&theme=nightowl" alt="akash98758" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
